@@ -1,0 +1,12 @@
+{
+  "produits": [
+    {"id": 1, "nom": "Clavier mécanique", "categorie": "Informatique", "prix": 120.0},
+    {"id": 2, "nom": "Souris sans fil", "categorie": "Informatique", "prix": 45.5},
+    {"id": 3, "nom": "Écouteurs Bluetooth", "categorie": "Audio", "prix": 89.9},
+    {"id": 4, "nom": "Clé USB 64 Go", "categorie": "Stockage", "prix": 25.0},
+    {"id": 5, "nom": "Disque SSD 512 Go", "categorie": "Stockage", "prix": 210.0},
+    {"id": 6, "nom": "Webcam HD", "categorie": "Informatique", "prix": 75.0},
+    {"id": 7, "nom": "Chargeur rapide 65W", "categorie": "Accessoires", "prix": 59.0},
+    {"id": 8, "nom": "Sac à dos laptop", "categorie": "Accessoires", "prix": 95.0}
+  ]
+}
